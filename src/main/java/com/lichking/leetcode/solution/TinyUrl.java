@@ -1,9 +1,7 @@
 package com.lichking.leetcode.solution;
 
-import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.UUID;
 
 /**
  * team : CORE HR
